@@ -20,12 +20,6 @@ The scope of the "Plant Disease Detection Using Image Processing" project encomp
 5.  Deployment
   
 6.  Documentation
-
-## Initialization:
-To run this project, you will need to have python installed on your machine.Follow these steps to set up the environment
-```
-github clone https://github.com/tharikasankar/Plant_disease_setection.git cd plant dsease detection
-```
 ## Sequence Diagram:
 ![image](https://github.com/user-attachments/assets/ef6ecf15-f9c9-4fb3-90d9-73c11229d5d9)
 
@@ -35,9 +29,12 @@ github clone https://github.com/tharikasankar/Plant_disease_setection.git cd pla
 ## Confusion Matrix:
 ![image](https://github.com/user-attachments/assets/65137a46-a8ac-4475-9a22-ecdc335e0739)
 ## Home Page:
-![image](https://github.com/user-attachments/assets/28f71776-f0d5-4a86-8a77-490de6e0a7be)
+![WhatsApp Image 2024-11-26 at 13 37 21_28df7a1c](https://github.com/user-attachments/assets/05cf43e5-e8b3-4f6b-a46f-ce21f39b2e86)
+![WhatsApp Image 2024-11-26 at 13 37 27_e8fae32b](https://github.com/user-attachments/assets/fec26e54-8825-467f-97c7-793d6a83990b)
+![WhatsApp Image 2024-11-26 at 13 37 35_1343393d](https://github.com/user-attachments/assets/7d30eb9e-03e3-4659-8c37-0a2f35cb559b)
+
 ## Result of the project:
-![image](https://github.com/user-attachments/assets/11d35375-2c03-4b5c-a574-8a5371c1885c)
+![WhatsApp Image 2024-11-26 at 13 37 43_1995953f](https://github.com/user-attachments/assets/e099b642-52d8-417f-89ab-561e1b641065)
 
 ## Future Work:
 Future work for the "Plant Disease Detection Using Image Processing" project could involve expanding the system to identify a broader range of plant species and diseases, improving its robustness across varying environmental conditions like different lighting, angles, and leaf textures. Integrating more advanced deep learning models, such as transformers or hybrid architectures, could enhance accuracy and processing efficiency. Further, deploying the model on mobile devices or IoT systems would enable real-time, on-site diagnosis for farmers. Additionally, incorporating predictive analytics could help anticipate disease spread, supporting proactive crop management strategies to reduce losses.
